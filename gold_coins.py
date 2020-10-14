@@ -24,6 +24,7 @@ class DnfTools:
         # 缴纳rmb
         self.rmb = 0
         # 税后金币
+
         self.after_tax_gold = 0
         # 税后比例
         self.after_tax_proportion = 0
